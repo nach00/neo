@@ -38,7 +38,9 @@
     "prettier": "^2.7.1",
     "react-native-svg": "latest",
     "turbo": "^1.10.3",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.4",
+    "uuid": "^7.0.3",
+    "vercel": "^32.5.5"
   },
-  "packageManager": "yarn@3.6.3"
+  "packageManager": "yarn@4.0.2"
 }
