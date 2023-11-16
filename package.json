@@ -24,14 +24,14 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-refresh": "^0.14.0",
-    "react-native-svg": "13.9.0",
+    "react-native-svg": "latest",
     "react-native-web": "~0.19.6"
   },
   "dependencies": {
     "@babel/runtime": "^7.18.9",
     "@manypkg/cli": "^0.19.1",
     "@tamagui/linear-gradient": "^1.76.0",
-    "@tamagui/lucide-icons": "^1.76.0",
+    "@tamagui/lucide-icons": "latest",
     "check-dependency-version-consistency": "^3.0.3",
     "eslint": "^8.21.0",
     "node-gyp": "^9.3.1",
@@ -40,7 +40,7 @@
     "turbo": "^1.10.3",
     "typescript": "^4.9.4",
     "uuid": "^7.0.3",
-    "vercel": "^32.5.5"
+    "vercel": "latest"
   },
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@3.5.1"
 }
